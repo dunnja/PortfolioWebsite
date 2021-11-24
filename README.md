@@ -2,7 +2,7 @@
 
 Currently working to create my own Portfolio Site using React and SCSS.
 
-jddevelopment.netlify.app
+https://jddevelopment.netlify.app/
 
 ## Under Construction
 
