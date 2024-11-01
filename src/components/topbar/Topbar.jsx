@@ -9,11 +9,11 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     <a href="#intro" className="logo">JD Development</a>
                     <div className="itemContainer">
                         <Person className="icon"/>
-                        <span>+44 7949 512 253</span>
+                        
                     </div>
                     <div className="itemContainer">
                         <Mail className="icon"/>
-                        <span>jay--dunn@hotmail.com</span>
+                        
                     </div>
                 </div>                
                 <div className="right">
